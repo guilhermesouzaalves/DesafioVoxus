@@ -1,0 +1,19 @@
+*{
+    font-family: Lato,sans-serif;
+}
+#titulo{
+    text-align: center;
+    margin-top: 160px;
+}
+#div_form{
+    margin: 0 auto;
+    width: 320px;
+
+}
+#cadastra_principal input{
+    width: 330px;
+}
+#cadastra_principal button{
+    width: 330px;
+    margin-bottom: 15px;
+}

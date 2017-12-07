@@ -1,0 +1,23 @@
+*{
+    font-family: 'Lato',sans-serif;
+}
+.divs{
+    display: inline-block;
+    
+}
+.esq{
+    float: left;
+}
+.dir{
+    float: right;
+}
+.titulo{
+    text-align: center;
+    padding: 15px;
+}
+.titulo.prin{
+    margin-bottom: 50px;
+}
+p{
+  font-size: 20pt;
+}
