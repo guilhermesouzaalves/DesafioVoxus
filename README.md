@@ -27,11 +27,11 @@ Também a possivel a criação de um usuário e senha próprio, a´pos o login v
 
 O sistema é bem intuitivo, tomei cuidado para que não se torne algo difícil de mexer.
 
-Tempo para desenvolver foi de 120 horas corridas.
+Tempo para desenvolver foi de 96 horas corridas.
 
-Porém de desenvolvimento foi de 52 horas.
+Porém de desenvolvimento foi de 42 horas.
 
-12 horas no primeiro dia/12 horas no segundo dia/6 horas no terceiro dia/10 horas no quarto dia/12 horas no quinto dia.
+12 horas no primeiro dia/12 horas no segundo dia/6 horas no terceiro dia/12 horas no quinto dia.
 
 
 QUERO DEIXAR MEU AGRADECIMENTO A VOXUS PELO DESAFIO!!
